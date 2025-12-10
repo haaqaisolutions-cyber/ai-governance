@@ -1,5 +1,19 @@
 [
   {
+    "title": "Age Verification Is Coming For the Internet. We Built You a Resource Hub to Fight Back.",
+    "link": "https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-we-built-you-resource-hub-fight-back",
+    "source": "Deeplinks",
+    "published": "Wed, 10 Dec 2025 23:48:55 +0000",
+    "description": "Age verification laws are proliferating fast across the United States and around the world, creating a dangerous and confusing tangle of rules about w..."
+  },
+  {
+    "title": "EFF Launches Age Verification Hub as Resource Against Misguided Laws",
+    "link": "https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws",
+    "source": "Deeplinks",
+    "published": "Wed, 10 Dec 2025 17:15:09 +0000",
+    "description": "EFF Also Will Host a Reddit AMA and a Livestreamed Panel DiscussionSAN FRANCISCO—With ill-advised and dangerous age verification laws proliferating ac..."
+  },
+  {
     "title": "Securing VMware workloads in regulated industries",
     "link": "https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/",
     "source": "MIT Technology Review",
@@ -28,20 +42,6 @@
     "description": "EFF intern Alexandra Halbeck contributed to this blog\nWhen people talk to a chatbot, they often reveal highly personal information they wouldn’t share..."
   },
   {
-    "title": "How to Identify Automated License Plate Readers at the U.S.-Mexico Border",
-    "link": "https://www.eff.org/deeplinks/2025/11/how-identify-automated-license-plate-readers-us-mexico-border",
-    "source": "Deeplinks",
-    "published": "Tue, 02 Dec 2025 16:23:52 +0000",
-    "description": "U.S. Customs and Border Protection (CBP), the Drug Enforcement Administration (DEA), and scores of state and local law enforcement agencies have insta..."
-  },
-  {
-    "title": "We’re Doubling Down on Digital Rights. You Can, Too.",
-    "link": "https://www.eff.org/deeplinks/2025/11/power-your-donation-week",
-    "source": "Deeplinks",
-    "published": "Tue, 02 Dec 2025 08:03:45 +0000",
-    "description": "Technology can uplift democracy, or it can be an authoritarian weapon. EFF is making sure it stays on the side of freedom. We’re defending encryption,..."
-  },
-  {
     "title": "EU's New Digital Package Proposal Promises Red Tape Cuts but Guts GDPR Privacy Rights",
     "link": "https://www.eff.org/deeplinks/2025/12/eus-new-digital-package-proposal-promises-red-tape-cuts-guts-gdpr-privacy-rights",
     "source": "Deeplinks",
@@ -61,12 +61,5 @@
     "source": "Deeplinks",
     "published": "Mon, 08 Dec 2025 16:24:42 +0000",
     "description": "It’s nearly the end of 2025, and half of the US and the UK now require you to upload your ID or scan your face to watch “sexual content.” A handful of..."
-  },
-  {
-    "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
-    "link": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/",
-    "source": "MIT Technology Review",
-    "published": "Fri, 05 Dec 2025 15:00:00 +0000",
-    "description": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting ..."
   }
 ]
