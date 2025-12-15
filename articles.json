@@ -14,13 +14,6 @@
     "description": "EFF Also Will Host a Reddit AMA and a Livestreamed Panel DiscussionSAN FRANCISCO—With ill-advised and dangerous age verification laws proliferating ac..."
   },
   {
-    "title": "Securing VMware workloads in regulated industries",
-    "link": "https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/",
-    "source": "MIT Technology Review",
-    "published": "Wed, 10 Dec 2025 10:11:19 +0000",
-    "description": "At a regional hospital, a cardiac patient’s lab results sit behind layers of encryption, accessible to his surgeon but shielded from those without str..."
-  },
-  {
     "title": "EFF Benefit Poker Tournament at DEF CON 33",
     "link": "https://www.eff.org/deeplinks/2025/12/eff-benefit-poker-tournament-def-con-33",
     "source": "Deeplinks",
@@ -49,10 +42,17 @@
     "description": "The UK Parliament convened earlier this week to debate a petition signed by 2.9 million people calling for an end to the government’s plans to roll ou..."
   },
   {
-    "title": "10 (Not So) Hidden Dangers of Age Verification",
-    "link": "https://www.eff.org/deeplinks/2025/12/10-not-so-hidden-dangers-age-verification",
+    "title": "EFF, Open Rights Group, Big Brother Watch, and Index on Censorship Call on UK Government to Repeal Online Safety Act",
+    "link": "https://www.eff.org/deeplinks/2025/12/eff-open-rights-group-big-brother-watch-and-index-censorship-call-uk-government",
     "source": "Deeplinks",
-    "published": "Mon, 08 Dec 2025 16:24:42 +0000",
-    "description": "It’s nearly the end of 2025, and half of the US and the UK now require you to upload your ID or scan your face to watch “sexual content.” A handful of..."
+    "published": "Mon, 15 Dec 2025 12:20:00 +0000",
+    "description": "Since the Online Safety Act took effect in late July, UK internet users have made it very clear to their politicians that they do not want anything to..."
+  },
+  {
+    "title": "The AI doomers feel undeterred",
+    "link": "https://www.technologyreview.com/2025/12/15/1129171/the-ai-doomers-feel-undeterred/",
+    "source": "MIT Technology Review",
+    "published": "Mon, 15 Dec 2025 10:00:00 +0000",
+    "description": "It’s a weird time to be an AI doomer. This small but influential community of researchers, scientists, and policy experts believes, in the simplest te..."
   }
 ]
