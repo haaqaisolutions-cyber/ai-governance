@@ -35,13 +35,6 @@
     "description": "Report from EFF, Center for Just Journalism, and IPVM Helps Cut Through Sales HypeSAN FRANCISCO — A new report released today offers journalists tips ..."
   },
   {
-    "title": "Open Letter to Tech Companies: Protect Your Users From Lawless DHS Subpoenas",
-    "link": "https://www.eff.org/deeplinks/2026/02/open-letter-tech-companies-protect-your-users-lawless-dhs-subpoenas",
-    "source": "Deeplinks",
-    "published": "Tue, 10 Feb 2026 22:52:04 +0000",
-    "description": "We are calling on technology companies like Meta and Google to stand up for their users by resisting the Department of Homeland Security's (DHS) lawle..."
-  },
-  {
     "title": "The Download: autonomous narco submarines, and virtue signaling chatbots",
     "link": "https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/",
     "source": "MIT Technology Review",
@@ -61,6 +54,13 @@
     "source": "Deeplinks",
     "published": "Thu, 12 Feb 2026 21:18:57 +0000",
     "description": "Discord has begun rolling out mandatory age verification and the internet is, understandably, freaking out.\nAt EFF, we’ve been raising the alarm about..."
+  },
+  {
+    "title": "EFF’s Policy on LLM-Assisted Contributions to Our Open-Source Projects",
+    "link": "https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects",
+    "source": "Deeplinks",
+    "published": "Fri, 20 Feb 2026 00:42:50 +0000",
+    "description": "\nWe recently introduced a policy governing large language model (LLM) assisted contributions to EFF's open-source projects. At EFF, we strive to produ..."
   },
   {
     "title": "Seven Billion Reasons for Facebook to Abandon its Face Recognition Plans",
