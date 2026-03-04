@@ -14,11 +14,11 @@
     "description": "Phishing and data breaches are a constant on the internet. The single best defense against both is to use a password manager to generate and automatic..."
   },
   {
-    "title": "Tech Companies Shouldn’t Be Bullied Into Doing Surveillance",
-    "link": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+    "title": "The Anthropic-DOD Conflict: Privacy Protections Shouldn’t Depend On the Decisions of a Few Powerful People",
+    "link": "https://www.eff.org/deeplinks/2026/03/anthropic-dod-conflict-privacy-protections-shouldnt-depend-decisions-few-powerful",
     "source": "Deeplinks",
-    "published": "Tue, 24 Feb 2026 23:42:44 +0000",
-    "description": "The Secretary of Defense has given an ultimatum to the artificial intelligence company Anthropic in an attempt to bully them into making their technol..."
+    "published": "Tue, 03 Mar 2026 21:35:50 +0000",
+    "description": "The U.S. military has officially ended its $200 million contract with AI company Anthropic and has ordered all other military contractors to cease use..."
   },
   {
     "title": "EFF to Supreme Court: Shut Down Unconstitutional Geofence Searches",
@@ -33,12 +33,5 @@
     "source": "Deeplinks",
     "published": "Mon, 02 Mar 2026 16:15:10 +0000",
     "description": "MIT Press Publishes EFF Executive Director’s Book As She Prepares to Depart Organization After 25 Years SAN FRANCISCO – Electronic Frontier Foundation..."
-  },
-  {
-    "title": "EFF’s Policy on LLM-Assisted Contributions to Our Open-Source Projects",
-    "link": "https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects",
-    "source": "Deeplinks",
-    "published": "Fri, 20 Feb 2026 00:42:50 +0000",
-    "description": "\nWe recently introduced a policy governing large language model (LLM) assisted contributions to EFF's open-source projects. At EFF, we strive to produ..."
   }
 ]
