@@ -14,11 +14,25 @@
     "description": "About EFF\nThe Electronic Frontier Foundation is the leading nonprofit defending civil liberties in the digital world. EFF’s work to protect your right..."
   },
   {
-    "title": "Traffic Violation! License Plate Reader Mission Creep Is Already Here",
-    "link": "https://www.eff.org/deeplinks/2026/03/traffic-violation-license-plate-reader-mission-creep-already-here",
+    "title": "Print Blocking Won't Work - Permission to Print Part 2",
+    "link": "https://www.eff.org/deeplinks/2026/04/print-blocking-wont-work-permission-print-part-2",
     "source": "Deeplinks",
-    "published": "Thu, 26 Mar 2026 20:19:26 +0000",
-    "description": "A new report from 404 Media sheds light on how automated license plate readers (ALPRs) could be used beyond the press releases and glossy marketing ma..."
+    "published": "Thu, 02 Apr 2026 17:57:16 +0000",
+    "description": "This is the second post in a series on 3D print blocking, for the first entry check out: Print Blocking is Anti-Consumer - Permission to Print Part 1\n..."
+  },
+  {
+    "title": "Print Blocking is Anti-Consumer - Permission to Print Part 1",
+    "link": "https://www.eff.org/deeplinks/2026/04/print-blocking-anti-consumer-permission-print-part-1",
+    "source": "Deeplinks",
+    "published": "Thu, 02 Apr 2026 17:56:48 +0000",
+    "description": "This is the first post in a series on 3D print blocking, for the next entry check out Print Blocking Won't Work - Permission to Print Part 2\nWhen legi..."
+  },
+  {
+    "title": "Google and Amazon: Acknowledged Risks, And Ignored Responsibilities",
+    "link": "https://www.eff.org/deeplinks/2026/04/google-and-amazon-acknowledged-risks-and-ignored-responsibilities",
+    "source": "Deeplinks",
+    "published": "Thu, 02 Apr 2026 15:12:50 +0000",
+    "description": "In late 2024, we urged Google and Amazon to honor their human rights commitments, to be more transparent with the public, and to take meaningful actio..."
   },
   {
     "title": "EFF’s Submission to the UN OHCHR on Protection of Human Rights Defenders in the Digital Age",
@@ -40,12 +54,5 @@
     "source": "Deeplinks",
     "published": "Mon, 30 Mar 2026 15:06:51 +0000",
     "description": "The UK is moving forward with its efforts to ban social media for young people. Ahead of this week’s House of Lords debate on the topic, we’re getting..."
-  },
-  {
-    "title": "US Tech Companies Must be Accountable in US Courts for Facilitating Persecution and Torture Abroad, EFF Urges US Supreme Court",
-    "link": "https://www.eff.org/press/releases/us-tech-companies-must-be-accountable-us-courts-facilitating-persecution-and-torture",
-    "source": "Deeplinks",
-    "published": "Fri, 27 Mar 2026 22:07:56 +0000",
-    "description": "Cisco Systems Case Has Major Implications for Global Human RightsSAN FRANCISCO – U.S. technology companies should be legally accountable in U.S. court..."
   }
 ]
