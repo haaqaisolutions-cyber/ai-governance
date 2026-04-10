@@ -21,13 +21,6 @@
     "description": "This is the third installment of a blog series reflecting on the global digital legacy of the 2011 Arab uprisings. You can read the first post here, a..."
   },
   {
-    "title": "EU Parliament Blocks Mass-Scanning of Our Chats—What's Next?",
-    "link": "https://www.eff.org/deeplinks/2026/04/eu-parliament-blocks-mass-scanning-our-chats-whats-next",
-    "source": "Deeplinks",
-    "published": "Tue, 07 Apr 2026 19:24:13 +0000",
-    "description": "The EU’s so-called Chat Control plan, which would mandate mass scanning and other encryption breaking measures, has had some good news lately. The mos..."
-  },
-  {
     "title": "Yikes, Encryption’s Y2K Moment is Coming Years Early",
     "link": "https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early",
     "source": "Deeplinks",
@@ -40,5 +33,12 @@
     "source": "Deeplinks",
     "published": "Thu, 09 Apr 2026 16:25:05 +0000",
     "description": "After almost twenty years on the platform, EFF is logging off of X. This isn’t a decision we made lightly, but it might be overdue. The math hasn’t wo..."
+  },
+  {
+    "title": "We Need You: Our Privacy Cannot Afford a Clean Extension of Section 702",
+    "link": "https://www.eff.org/deeplinks/2026/04/we-need-you-our-privacy-cannot-afford-clean-extension-section-702",
+    "source": "Deeplinks",
+    "published": "Fri, 10 Apr 2026 13:50:32 +0000",
+    "description": "We go through this every couple of years: Section 702 of the Foreign Intelligence Surveillance Act (FISA), which of Americans’ communications with for..."
   }
 ]
