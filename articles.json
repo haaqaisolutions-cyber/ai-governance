@@ -1,5 +1,12 @@
 [
   {
+    "title": "Broken Promises: RIP Instagram’s End-to-End Encrypted DMs",
+    "link": "https://www.eff.org/deeplinks/2026/05/broken-promises-rip-instagrams-end-end-encrypted-dms",
+    "source": "Deeplinks",
+    "published": "Tue, 12 May 2026 22:11:00 +0000",
+    "description": "Last week, Instagram ended its opt-in, and therefore rarely used, end-to-end encryption feature. Years after publicly promising to provide the privacy..."
+  },
+  {
     "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
     "link": "https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats",
     "source": "Deeplinks",
@@ -47,12 +54,5 @@
     "source": "Deeplinks",
     "published": "Fri, 08 May 2026 23:24:31 +0000",
     "description": "Following criticism, lawmakers have narrowed the GUARD Act, a bill aimed at restricting minors’ access to certain AI systems. The earlier version coul..."
-  },
-  {
-    "title": "Free Signal Guide",
-    "link": "https://www.eff.org/deeplinks/2026/05/free-sginal-guide",
-    "source": "Deeplinks",
-    "published": "Fri, 08 May 2026 17:23:00 +0000",
-    "description": "EFF friend Guy Kawasaki* has written a book: Everybody Has Something to Hide: Why and How to Use Signal to Preserve Your Privacy, Security, and Well-B..."
   }
 ]
