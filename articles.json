@@ -28,6 +28,13 @@
     "description": "In the global race to build and dominate the AI industry, it can sure seem like the interests of ordinary people sit last on the agenda. It's just the..."
   },
   {
+    "title": "Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme",
+    "link": "https://www.eff.org/deeplinks/2026/07/googles-new-remote-attestation-scheme-every-bit-terrible-its-old-remote",
+    "source": "Deeplinks",
+    "published": "Thu, 09 Jul 2026 09:15:49 +0000",
+    "description": "Google owes its existence to the open web, but today, its technological “innovations” have much to do with locking users into a “walled garden.” The l..."
+  },
+  {
     "title": "LGBT Q&A: How Can I Wipe Online Data That Points To My Queer Identity?",
     "link": "https://www.eff.org/deeplinks/2026/07/lgbt-qa-how-can-i-wipe-online-data-points-my-queer-identity",
     "source": "Deeplinks",
@@ -54,12 +61,5 @@
     "source": "Deeplinks",
     "published": "Mon, 29 Jun 2026 17:25:22 +0000",
     "description": "You have an expectation of privacy in location data that reveals your movements in the physical world, and even short-term surveillance of these movem..."
-  },
-  {
-    "title": "EFF to Grindr: This Pride Month, Put Safety and Privacy Over Profits",
-    "link": "https://www.eff.org/deeplinks/2026/06/grindr-put-queer-safety-and-privacy-over-profits",
-    "source": "Deeplinks",
-    "published": "Fri, 26 Jun 2026 16:18:00 +0000",
-    "description": "This Pride month, we’re calling on the dating app Grindr to prioritize LGBTQ+ user safety by making privacy the default across its platform. That mean..."
   }
 ]
