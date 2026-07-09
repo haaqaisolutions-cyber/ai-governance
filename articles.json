@@ -28,6 +28,13 @@
     "description": "In the global race to build and dominate the AI industry, it can sure seem like the interests of ordinary people sit last on the agenda. It's just the..."
   },
   {
+    "title": "European Commission Chooses to Keep EU Users Locked Up Behind Big Tech’s Gates",
+    "link": "https://www.eff.org/deeplinks/2026/07/european-commission-chooses-keep-eu-users-locked-behind-big-techs-gates",
+    "source": "Deeplinks",
+    "published": "Thu, 09 Jul 2026 18:30:12 +0000",
+    "description": "Users are always seeking more control over their social networking experience to make it better, whether to improve privacy or enhance flexibility. In..."
+  },
+  {
     "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
     "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
     "source": "MIT Technology Review",
@@ -35,7 +42,7 @@
     "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear..."
   },
   {
-    "title": "Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme",
+    "title": "Google's New Remote Attestation Scheme is As Bad As Its Old One",
     "link": "https://www.eff.org/deeplinks/2026/07/googles-new-remote-attestation-scheme-every-bit-terrible-its-old-remote",
     "source": "Deeplinks",
     "published": "Thu, 09 Jul 2026 09:15:49 +0000",
@@ -61,12 +68,5 @@
     "source": "Deeplinks",
     "published": "Mon, 29 Jun 2026 18:23:38 +0000",
     "description": "The Illinois legislature recently passed House Bill 5511, which imposes a sweeping, device-level age-gating framework across nearly all internet-enabl..."
-  },
-  {
-    "title": "Victory! Supreme Court Says Constitution Protects People’s Location Data",
-    "link": "https://www.eff.org/deeplinks/2026/06/victory-supreme-court-says-constitution-protects-peoples-location-data",
-    "source": "Deeplinks",
-    "published": "Mon, 29 Jun 2026 17:25:22 +0000",
-    "description": "You have an expectation of privacy in location data that reveals your movements in the physical world, and even short-term surveillance of these movem..."
   }
 ]
