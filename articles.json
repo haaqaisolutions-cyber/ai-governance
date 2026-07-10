@@ -7,13 +7,6 @@
     "description": ""
   },
   {
-    "title": "LGBT Q&A: What Data Are Companies in the UK Collecting When Verifying My Age?",
-    "link": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-what-data-are-companies-uk-collecting-when-verifying-my-age",
-    "source": "Deeplinks",
-    "published": "Tue, 30 Jun 2026 08:08:47 +0000",
-    "description": "\nThis Pride, we’re answering all your digital rights questions in season two of our initiative, LGBT Q&A. \nYou Asked: I live in the UK, and we have ag..."
-  },
-  {
     "title": "Automated Moderation Is Here to Stay",
     "link": "https://www.eff.org/deeplinks/2026/07/part-1-automated-moderation-here-stay",
     "source": "Deeplinks",
@@ -26,6 +19,20 @@
     "source": "Deeplinks",
     "published": "Tue, 07 Jul 2026 16:17:38 +0000",
     "description": "In the global race to build and dominate the AI industry, it can sure seem like the interests of ordinary people sit last on the agenda. It's just the..."
+  },
+  {
+    "title": "\"We Want Texans to Know Their Rights\": Q&A with Mayday Health on the Impact of Surveillance on Abortion Care",
+    "link": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+    "source": "Deeplinks",
+    "published": "Thu, 09 Jul 2026 21:12:57 +0000",
+    "description": "Last May, EFF reported that a sheriff’s office in Texas searched data from more than 83,000 automated license plate reader (ALPR) cameras to track dow..."
+  },
+  {
+    "title": "The House Passed The KIDS Act—The Senate Should Reject It",
+    "link": "https://www.eff.org/deeplinks/2026/07/house-passed-kids-act-senate-should-reject-it",
+    "source": "Deeplinks",
+    "published": "Thu, 09 Jul 2026 20:58:33 +0000",
+    "description": "Last week, the House voted on the KIDS Act, a disjointed package of legislation that seeks to control Americans’ web browsing and private messaging. T..."
   },
   {
     "title": "European Commission Chooses to Keep EU Users Locked Up Behind Big Tech’s Gates",
@@ -61,12 +68,5 @@
     "source": "Deeplinks",
     "published": "Thu, 02 Jul 2026 15:04:54 +0000",
     "description": "X Corp. should not be able to escape privacy compliance because it changed its name. \nOn May 15, X Corp. filed a petition before the Federal Trade Com..."
-  },
-  {
-    "title": "EFF to Gov. Pritzker: Veto Illinois’ HB 5511",
-    "link": "https://www.eff.org/deeplinks/2026/06/eff-gov-pritzker-veto-illinois-hb-5511",
-    "source": "Deeplinks",
-    "published": "Mon, 29 Jun 2026 18:23:38 +0000",
-    "description": "The Illinois legislature recently passed House Bill 5511, which imposes a sweeping, device-level age-gating framework across nearly all internet-enabl..."
   }
 ]
