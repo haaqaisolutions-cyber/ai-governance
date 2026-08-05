@@ -1,5 +1,33 @@
 [
   {
+    "title": "Tomorrow’s U.S. Senate Vote: Four Internet Bills, One Wrong Direction",
+    "link": "https://www.eff.org/deeplinks/2026/08/senate-vote-tomorrow-four-internet-bills-one-wrong-direction",
+    "source": "Deeplinks",
+    "published": "Wed, 05 Aug 2026 00:15:11 +0000",
+    "description": "The Senate Commerce Committee will vote this week on several censorious and privacy invasive bills: KOSA, the SCREEN Act, Youth AI Privacy Act, and CH..."
+  },
+  {
+    "title": "Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA",
+    "link": "https://www.eff.org/deeplinks/2026/08/appeals-court-agrees-eff-building-web-browser-doesnt-violate-cfaa",
+    "source": "Deeplinks",
+    "published": "Tue, 04 Aug 2026 22:32:39 +0000",
+    "description": "The Ninth Circuit Court of Appeals has endorsed a commonsense technical interpretation of the Computer Fraud and Abuse Act (CFAA), a law not usually g..."
+  },
+  {
+    "title": "Mobile Ad Software Encourages Location Data Sharing, EFF Report Finds",
+    "link": "https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds",
+    "source": "Deeplinks",
+    "published": "Tue, 04 Aug 2026 19:30:41 +0000",
+    "description": "Developers Must Beware of Ad Libraries that Betray Users’ PrivacySAN FRANCISCO – Some software development kits (SDKs) provided by advertising compani..."
+  },
+  {
+    "title": "Developers: Beware of Ad Libraries that Betray Your Users’ Location Privacy",
+    "link": "https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy",
+    "source": "Deeplinks",
+    "published": "Tue, 04 Aug 2026 19:30:21 +0000",
+    "description": "Across mobile platforms, advertising companies provide developers with software development kits (SDKs) that make it easy to monetize their apps. But ..."
+  },
+  {
     "title": "Technology's Power in the Hands of the People",
     "link": "https://www.eff.org/deeplinks/2026/07/vv26",
     "source": "Deeplinks",
@@ -19,33 +47,5 @@
     "source": "Deeplinks",
     "published": "Mon, 03 Aug 2026 22:17:56 +0000",
     "description": "The Federal Trade Commission (FTC) in July issued a proposed policy statement “concerning the suppression of accuracy in artificial intelligence syste..."
-  },
-  {
-    "title": "The Youth AI Privacy Act’s Privacy Paradox",
-    "link": "https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox",
-    "source": "Deeplinks",
-    "published": "Mon, 03 Aug 2026 21:08:45 +0000",
-    "description": "The Senate Commerce Committee is poised to consider the Youth AI Privacy Act, a bill that would require AI companies to create kids-only privacy rules..."
-  },
-  {
-    "title": "EFF at BSidesLV, Black Hat, and DEF CON 👨‍💻",
-    "link": "https://www.eff.org/deeplinks/2026/07/eff-bsideslv-black-hat-and-def-con",
-    "source": "Deeplinks",
-    "published": "Mon, 03 Aug 2026 14:45:00 +0000",
-    "description": "It's time. Time for tinkerers, security researchers, hackers, and fellow nerds to gather together in signature black hoodies and utilikilts to beat th..."
-  },
-  {
-    "title": "Amending AB 1709 Doesn’t Fix It: California’s Social Media Ban Still Threatens Free Speech and Privacy",
-    "link": "https://www.eff.org/deeplinks/2026/07/amending-ab-1709-doesnt-fix-it-californias-social-media-ban-still-threatens-free",
-    "source": "Deeplinks",
-    "published": "Fri, 31 Jul 2026 19:47:34 +0000",
-    "description": "California lawmakers have amended A.B. 1709, but the core problem remains: the bill is still a ban on social media access for youth under 16, and it s..."
-  },
-  {
-    "title": "The SCREEN Act Threatens Privacy Far Beyond Adult Websites",
-    "link": "https://www.eff.org/deeplinks/2026/07/screen-act-threatens-privacy-far-beyond-adult-websites",
-    "source": "Deeplinks",
-    "published": "Fri, 31 Jul 2026 19:41:55 +0000",
-    "description": "The Senate Commerce Committee is set to consider S. 737, the SCREEN Act, a sweeping age-verification bill that would require online services to verify..."
   }
 ]
