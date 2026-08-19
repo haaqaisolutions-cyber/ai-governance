@@ -1,5 +1,12 @@
 [
   {
+    "title": "📍 The Sneaky Code Tracking App Users | EFFector 38.15",
+    "link": "https://www.eff.org/deeplinks/2026/08/sneaky-code-tracking-app-users-effector-3815",
+    "source": "Deeplinks",
+    "published": "Wed, 19 Aug 2026 16:35:30 +0000",
+    "description": "Your location isn't just a pin on a map—it can expose some of the most intimate details about your life. The value of this information to advertisers ..."
+  },
+  {
     "title": "Tomorrow’s U.S. Senate Vote: Four Internet Bills, One Wrong Direction",
     "link": "https://www.eff.org/deeplinks/2026/08/senate-vote-tomorrow-four-internet-bills-one-wrong-direction",
     "source": "Deeplinks",
@@ -14,25 +21,18 @@
     "description": "A federal appeals court just made it harder for online services, big and small, to get lawsuits over user speech dismissed early. In California v. Met..."
   },
   {
+    "title": "ZKP’s Aren’t Age Verification Silver Bullets",
+    "link": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
+    "source": "Deeplinks",
+    "published": "Tue, 18 Aug 2026 22:39:03 +0000",
+    "description": "Age verification (laws and regulations requiring platforms and websites to assure or estimate that a user seeking to use an online service is of a cer..."
+  },
+  {
     "title": "Who (or What) Generates Images for EFF?",
     "link": "https://www.eff.org/deeplinks/2026/08/who-or-what-generates-images-eff",
     "source": "Deeplinks",
     "published": "Tue, 11 Aug 2026 20:24:25 +0000",
     "description": "We’ve had a few questions from EFF supporters lately, asking whether the images we use on our blog posts, or on donation and shop items, have been cre..."
-  },
-  {
-    "title": "Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA",
-    "link": "https://www.eff.org/deeplinks/2026/08/appeals-court-agrees-eff-building-web-browser-doesnt-violate-cfaa",
-    "source": "Deeplinks",
-    "published": "Tue, 04 Aug 2026 22:32:39 +0000",
-    "description": "The Ninth Circuit Court of Appeals has endorsed a commonsense technical interpretation of the Computer Fraud and Abuse Act (CFAA), a law not usually g..."
-  },
-  {
-    "title": "Mobile Ad Software Encourages Location Data Sharing, EFF Report Finds",
-    "link": "https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds",
-    "source": "Deeplinks",
-    "published": "Tue, 04 Aug 2026 19:30:41 +0000",
-    "description": "Developers Must Beware of Ad Libraries that Betray Users’ PrivacySAN FRANCISCO – Some software development kits (SDKs) provided by advertising compani..."
   },
   {
     "title": "Too Little, Too Late: Flock Admits Their Technology Needs Reforms",
