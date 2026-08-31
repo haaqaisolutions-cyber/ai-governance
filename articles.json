@@ -7,39 +7,46 @@
     "description": "Automated license plate readers (ALPRs) build a searchable map of everywhere a driver goes, fed into databases that police, ICE, and private vendors c..."
   },
   {
-    "title": "EFF Statement on Meta Settlement",
-    "link": "https://www.eff.org/deeplinks/2026/08/eff-statement-meta-settlement",
+    "title": "EFF to Courts: Don’t Rewrite Copyright Over AI Hype",
+    "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
     "source": "Deeplinks",
-    "published": "Wed, 26 Aug 2026 16:34:41 +0000",
-    "description": "Under this settlement, young users will now have less access to Meta products, and a lesser ability to exercise their rights to speak, access informat..."
+    "published": "Mon, 31 Aug 2026 19:45:54 +0000",
+    "description": "The history of technology is rife with copyright panics.  In the 1980s, major rightsholders ran to Congress and the courts, claiming that videotape re..."
   },
   {
-    "title": "French Top Court Gets It Right, Strikes Down Social Media Ban For Youths",
-    "link": "https://www.eff.org/deeplinks/2026/08/french-top-court-gets-it-right-strikes-down-social-media-ban-youths",
+    "title": "Doxxing Safety Part II: Incident Response",
+    "link": "https://www.eff.org/deeplinks/2026/08/doxxing-safety-part-ii-incident-response",
     "source": "Deeplinks",
-    "published": "Wed, 26 Aug 2026 14:32:59 +0000",
-    "description": "\nEarlier this month, France’s top court struck down the country’s legislation that banned social media use for people under 15 years old, which had be..."
+    "published": "Mon, 31 Aug 2026 19:02:37 +0000",
+    "description": "Doxxing, also known as the deliberate sharing of personal information to harass or endanger someone, is a tricky thing to protect against. It often ha..."
   },
   {
-    "title": "Raised on AI",
-    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "title": "Doxxing Safety Pt I: Prevention and Footprint Management",
+    "link": "https://www.eff.org/deeplinks/2026/08/doxxing-safety-pt-i-prevention-and-footprint-management",
+    "source": "Deeplinks",
+    "published": "Mon, 31 Aug 2026 18:52:45 +0000",
+    "description": "Doxxing is the deliberate disclosure of personal information in order to bully, harass, intimidate, or instigate a chain of harms against someone. It'..."
+  },
+  {
+    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
     "source": "MIT Technology Review",
-    "published": "Wed, 26 Aug 2026 09:00:00 +0000",
-    "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plas..."
+    "published": "Mon, 31 Aug 2026 18:00:00 +0000",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’v..."
   },
   {
-    "title": "Some Tech Companies Have Privately Pushed Back on ICE Subpoenas. They Should All Do More.",
-    "link": "https://www.eff.org/deeplinks/2026/08/some-tech-companies-have-privately-pushed-back-ice-subpoenas-they-should-all-do",
+    "title": "Privacy on the Map (Part 2): Progress, Pitfalls, and the Fight for Enforceable Location Data Protections",
+    "link": "https://www.eff.org/deeplinks/2026/08/privacy-map-part-2-progress-pitfalls-and-fight-enforceable-location-data",
     "source": "Deeplinks",
-    "published": "Wed, 19 Aug 2026 22:23:49 +0000",
-    "description": "In a handful of known cases, large social media companies have privately pushed back against Immigration and Customs Enforcement (ICE) subpoenas when ..."
+    "published": "Mon, 31 Aug 2026 16:49:34 +0000",
+    "description": "Regulating commercial location tracking has reached a turning point. Last year, we published our rubric for what comprehensive and protective location..."
   },
   {
-    "title": "Intermediary Liability in Brazil: The Intricate Path Ahead",
-    "link": "https://www.eff.org/deeplinks/2026/08/intermediary-liability-brazil-intricate-path-ahead",
+    "title": "LGBT Q&A: What’s One Thing I Can Do Today to Improve My Safety and Security Online as an LGBTQ+ Person?",
+    "link": "https://www.eff.org/deeplinks/2026/08/lgbt-qa-whats-one-thing-i-can-do-today-improve-my-safety-and-security-online-lgbtq",
     "source": "Deeplinks",
-    "published": "Thu, 20 Aug 2026 23:17:55 +0000",
-    "description": "Brazil's new internet intermediary liability regime is underway. The implementation of changes established by the Supreme Court includes notice and ta..."
+    "published": "Mon, 31 Aug 2026 15:57:37 +0000",
+    "description": "This post is adapted from a video recorded by EFF and the Trevor Project. Head over to our TikTok or Instagram to watch! \nEFF answers all the queer di..."
   },
   {
     "title": "EFF and Allies on Brazil's Elections: Privacy Protections are Crucial to Electoral Integrity",
@@ -47,12 +54,5 @@
     "source": "Deeplinks",
     "published": "Fri, 28 Aug 2026 03:46:26 +0000",
     "description": "EFF, Access Now, and Data Privacy Brasil are putting forward recommendations to strengthen robust privacy and data protection safeguards in the contex..."
-  },
-  {
-    "title": "EFF and Civil Society Groups Call on Nottinghamshire Police to Halt Live Face Recognition",
-    "link": "https://www.eff.org/deeplinks/2026/08/eff-and-civil-society-groups-call-nottinghamshire-police-halt-live-face",
-    "source": "Deeplinks",
-    "published": "Fri, 21 Aug 2026 16:03:17 +0000",
-    "description": "This week, EFF, along with Big Brother Watch, Defend Digital Me, Liberty, Open Rights Group, Race Equality First, Statewatch, and Stopwatch, wrote to ..."
   }
 ]
