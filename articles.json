@@ -1,5 +1,26 @@
 [
   {
+    "title": "Cops Play Hide and Seek About Using Spy Tech to Avoid Scrutiny and Bad PR",
+    "link": "https://www.eff.org/deeplinks/2026/09/cops-play-hide-and-seek-about-using-spy-tech-avoid-scrutiny-and-bad-pr",
+    "source": "Deeplinks",
+    "published": "Wed, 09 Sep 2026 20:09:10 +0000",
+    "description": "Law enforcement agencies across the country are increasingly relying on spying technologies—automated license plate readers (ALPR), cell-site simulato..."
+  },
+  {
+    "title": "Digital Sovereignty: What It Is, What It Could Be",
+    "link": "https://www.eff.org/deeplinks/2026/09/digital-sovereignty-what-it-what-it-could-be",
+    "source": "Deeplinks",
+    "published": "Wed, 09 Sep 2026 18:04:27 +0000",
+    "description": "The term “digital sovereignty” has become ubiquitous. European officials invoke it in debates about cloud infrastructure, AI, semiconductors, and plat..."
+  },
+  {
+    "title": "2026 EFF Award Winners: Access Now, 7amleh – The Arab Center for the Advancement of Social Media, DeFlock, and New Media Rights",
+    "link": "https://www.eff.org/deeplinks/2026/09/2026-eff-award-winners-access-now-7amleh-arab-center-advancement-social-media",
+    "source": "Deeplinks",
+    "published": "Wed, 09 Sep 2026 16:00:33 +0000",
+    "description": "EFF is pleased to announce that Access Now, 7amleh – The Arab Center for the Advancement of Social Media, DeFlock, and New Media Rights have received ..."
+  },
+  {
     "title": "Texas and Florida Step Back from ALPRs",
     "link": "https://www.eff.org/deeplinks/2026/09/texas-and-florida-step-back-alprs",
     "source": "Deeplinks",
@@ -26,26 +47,5 @@
     "source": "Deeplinks",
     "published": "Thu, 03 Sep 2026 19:11:56 +0000",
     "description": "A federal court in Massachusetts has ruled that copyright holders can issue online takedown notices based on a subjective belief of copyright infringe..."
-  },
-  {
-    "title": "EFF to Governor Newsom: Veto California’s AB 1709",
-    "link": "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
-    "source": "Deeplinks",
-    "published": "Mon, 31 Aug 2026 23:37:39 +0000",
-    "description": "The California legislature passed Assembly Bill 1709 (A.B. 1709) today, which functions as a sweeping ban on social media use for young people under t..."
-  },
-  {
-    "title": "EFF to Courts: Don’t Rewrite Copyright Over AI Hype",
-    "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-    "source": "Deeplinks",
-    "published": "Mon, 31 Aug 2026 19:45:54 +0000",
-    "description": "The history of technology is rife with copyright panics.  In the 1980s, major rightsholders ran to Congress and the courts, claiming that videotape re..."
-  },
-  {
-    "title": "Doxxing Safety Part II: Incident Response",
-    "link": "https://www.eff.org/deeplinks/2026/08/doxxing-safety-part-ii-incident-response",
-    "source": "Deeplinks",
-    "published": "Mon, 31 Aug 2026 19:02:37 +0000",
-    "description": "Doxxing, also known as the deliberate sharing of personal information to harass or endanger someone, is a tricky thing to protect against. It often ha..."
   }
 ]
