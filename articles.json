@@ -28,13 +28,6 @@
     "description": "Within the last few days, two important state actions have dealt a big blow to automated license plate reader (ALPR) networks. This is just the latest..."
   },
   {
-    "title": "Judge Rules DOD Unlawfully Retaliated Against Anthropic",
-    "link": "https://www.eff.org/deeplinks/2026/09/judge-rules-dod-unlawfully-retaliated-against-anthropic",
-    "source": "Deeplinks",
-    "published": "Wed, 02 Sep 2026 01:13:50 +0000",
-    "description": "A federal judge has sided with Anthropic on its claims that the Department of Defense illegally retaliated against Anthropic’s protected speech by lab..."
-  },
-  {
     "title": "We All Deserve a Better Internet, Not A Smaller One",
     "link": "https://www.eff.org/press/releases/we-all-deserve-better-internet-not-smaller-one",
     "source": "Deeplinks",
@@ -54,5 +47,12 @@
     "source": "Deeplinks",
     "published": "Thu, 03 Sep 2026 19:11:56 +0000",
     "description": "A federal court in Massachusetts has ruled that copyright holders can issue online takedown notices based on a subjective belief of copyright infringe..."
+  },
+  {
+    "title": "Cold TAKE: Amazon's New Encryption Method Still Doesn't Deliver Real Privacy",
+    "link": "https://www.eff.org/deeplinks/2026/09/cold-take-amazons-new-encryption-method-still-doesnt-deliver-real-privacy",
+    "source": "Deeplinks",
+    "published": "Fri, 11 Sep 2026 16:56:34 +0000",
+    "description": "Amazon recently debuted a new feature for its Ring cameras that the company is calling Throw Away the Key Encryption (TAKE). The idea is to cut back o..."
   }
 ]
