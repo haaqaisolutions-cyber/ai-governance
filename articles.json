@@ -1,5 +1,19 @@
 [
   {
+    "title": "While the Country Rejects ALPR Mass Surveillance, SF Settles for Weak Safeguards",
+    "link": "https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards",
+    "source": "Deeplinks",
+    "published": "Tue, 29 Sep 2026 21:30:22 +0000",
+    "description": "San Francisco's decision to retain its use of Automated License Plate Reader (ALPR) surveillance cameras belies what we know about this spying technol..."
+  },
+  {
+    "title": "Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries",
+    "link": "https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries",
+    "source": "Deeplinks",
+    "published": "Tue, 29 Sep 2026 15:00:32 +0000",
+    "description": "People are increasingly concerned about the ways in which mass surveillance is tracking our every move: from Flock license plate readers to face recog..."
+  },
+  {
     "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
     "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
     "source": "Deeplinks",
@@ -40,19 +54,5 @@
     "source": "Deeplinks",
     "published": "Fri, 18 Sep 2026 23:25:44 +0000",
     "description": "California Gov. Gavin Newsom's executive order is an opportunity for a needed, thoughtful conversation about artificial intelligence and its potential..."
-  },
-  {
-    "title": "How to Limit What Apple’s New Siri AI Can Access in iOS 27",
-    "link": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
-    "source": "Deeplinks",
-    "published": "Fri, 18 Sep 2026 21:55:16 +0000",
-    "description": "Apple’s new operating system is here, and along with it comes a new version of Siri, dubbed with two very familiar letters: AI. As the name suggests, ..."
-  },
-  {
-    "title": "Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs",
-    "link": "https://www.eff.org/deeplinks/2026/09/secure-messaging-and-ai-remain-conflict-despite-promise-tees",
-    "source": "Deeplinks",
-    "published": "Fri, 18 Sep 2026 21:53:55 +0000",
-    "description": "Secure messaging platforms, like Signal, WhatsApp, and recently, encrypted RCS, operate on a straightforward assumption: the content at each end of a ..."
   }
 ]
