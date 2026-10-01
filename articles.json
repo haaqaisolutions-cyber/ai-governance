@@ -28,11 +28,32 @@
     "description": "People are increasingly concerned about the ways in which mass surveillance is tracking our every move: from Flock license plate readers to face recog..."
   },
   {
-    "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
-    "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+    "title": "We Demand More Information on How Marin Cops Illegally Shared Flock ALPR Data",
+    "link": "https://www.eff.org/deeplinks/2026/10/we-demand-more-information-how-marin-cops-illegally-shared-flock-alpr-data",
     "source": "Deeplinks",
-    "published": "Thu, 24 Sep 2026 20:11:52 +0000",
-    "description": "Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. ..."
+    "published": "Thu, 01 Oct 2026 21:59:08 +0000",
+    "description": "The Marin County Sheriff’s Office is the latest California law enforcement agency to get caught sharing automated license plate reader (ALPR) data fro..."
+  },
+  {
+    "title": "Challengers Approach: Third Party App Stores Arrive to Google Play",
+    "link": "https://www.eff.org/deeplinks/2026/10/challengers-approach-third-party-app-stores-arrive-google-play",
+    "source": "Deeplinks",
+    "published": "Thu, 01 Oct 2026 21:25:19 +0000",
+    "description": "If you are an Android user, you may have noticed it already: Google has begun allowing rival, third-party app stores to be distributed through the Goo..."
+  },
+  {
+    "title": "Court Agrees with EFF: Utah’s VPN Law Demands a Technical Impossibility",
+    "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "source": "Deeplinks",
+    "published": "Thu, 01 Oct 2026 19:57:20 +0000",
+    "description": "When state lawmakers attempt to rewrite how the internet works, users rely on courts to recognize that laws can’t make technical impossibilities a rea..."
+  },
+  {
+    "title": "Happy Opt Out October! Let’s Find Real Alternatives to the Tech Giants",
+    "link": "https://www.eff.org/deeplinks/2026/10/happy-opt-out-october-lets-find-real-alternatives-tech-giants",
+    "source": "Deeplinks",
+    "published": "Thu, 01 Oct 2026 19:27:29 +0000",
+    "description": "Over the years, the major tech companies have found all sorts of ways to embed themselves into our lives. We often use their software, their AI tools,..."
   },
   {
     "title": "How smaller, distributed batteries could help the grid",
@@ -40,19 +61,5 @@
     "source": "MIT Technology Review",
     "published": "Thu, 01 Oct 2026 10:00:00 +0000",
     "description": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to ..."
-  },
-  {
-    "title": "EFF to San Francisco Police: Drones are Powerful Surveillance Tools That Require a Robust Policy",
-    "link": "https://www.eff.org/deeplinks/2026/09/eff-san-francisco-police-drones-are-powerful-surveillance-tools-require-robust",
-    "source": "Deeplinks",
-    "published": "Mon, 28 Sep 2026 20:30:00 +0000",
-    "description": "The San Francisco Police Department (SFPD) began regularly deploying drones two years ago and has since expanded their use in a way that has outpaced ..."
-  },
-  {
-    "title": "EFF to Court: Trump's Use of Truth Social's Pay-To-See-Posts-First Scheme Violates Americans' 1st Amendment Equal Access Rights",
-    "link": "https://www.eff.org/deeplinks/2026/09/ff-court-trumps-use-truth-socials-pay-see-posts-first-scheme-violates-americans",
-    "source": "Deeplinks",
-    "published": "Fri, 25 Sep 2026 21:04:11 +0000",
-    "description": "EFF legal intern Simar Kaur also contributed to this article.\nAmericans’ First Amendment right to equal access to official government statements is vi..."
   }
 ]
