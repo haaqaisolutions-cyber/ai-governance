@@ -28,13 +28,6 @@
     "description": "In an extremely disappointing ruling, a California trial court dismissed SIREN v. San Jose, our case challenging the city of San Jose’s warrantless se..."
   },
   {
-    "title": "Privacy's Defenders Podcast: No Privacy Without Encryption",
-    "link": "https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-no-privacy-without-encryption",
-    "source": "Deeplinks",
-    "published": "Tue, 13 Oct 2026 15:00:03 +0000",
-    "description": "When we communicate online today – from your personal emails and DMs to secure international commerce – we usually do so with encryption. Encryption c..."
-  },
-  {
     "title": "Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.",
     "link": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
     "source": "Deeplinks",
@@ -42,17 +35,24 @@
     "description": "No one should have to choose between speaking freely and protecting their immigration status. Yet that’s precisely the choice the Trump administration..."
   },
   {
+    "title": "Announcing Privacy Badger for Safari on macOS",
+    "link": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
+    "source": "Deeplinks",
+    "published": "Mon, 19 Oct 2026 17:59:22 +0000",
+    "description": "Exciting news for Safari users: Privacy Badger is now available on Safari for macOS! You’ll need Safari version 26.5 or higher to use it.\nWhether you ..."
+  },
+  {
+    "title": "EFF Launches Privacy Badger for Safari on macOS",
+    "link": "https://www.eff.org/press/releases/eff-launches-privacy-badger-safari-macos",
+    "source": "Deeplinks",
+    "published": "Mon, 19 Oct 2026 16:00:25 +0000",
+    "description": "Free Tracker Blocker Used by Millions Will Protect Even More Users' PrivacySAN FRANCISCO—Privacy Badger, the award-winning tracker blocker made by the..."
+  },
+  {
     "title": "In Memoriam: Barry Steinhardt",
     "link": "https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt",
     "source": "Deeplinks",
     "published": "Fri, 16 Oct 2026 00:07:22 +0000",
     "description": "Barry Steinhardt, a lifelong privacy champion and an early leader in the battle for digital civil liberties who served as EFF’s president in 1998-99, ..."
-  },
-  {
-    "title": "Resisting the Menace of Federal Data Consolidation",
-    "link": "https://www.eff.org/deeplinks/2026/10/resisting-menace-federal-data-consolidation",
-    "source": "Deeplinks",
-    "published": "Fri, 09 Oct 2026 21:46:34 +0000",
-    "description": "In the past two years, the federal government has unlawfully consolidated data exposing our private information. \nThis consolidation has been chaotic ..."
   }
 ]
