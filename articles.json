@@ -1,5 +1,33 @@
 [
   {
+    "title": "Introducing Our New Surveillance Self-Defense Guide: Online Privacy for Parents and Youth",
+    "link": "https://www.eff.org/deeplinks/2026/10/introducing-our-new-surveillance-self-defense-guide-online-privacy-parents-and",
+    "source": "Deeplinks",
+    "published": "Wed, 21 Oct 2026 23:07:38 +0000",
+    "description": "The internet is a vast and confusing place no matter your age. Trying to help youth engage with it safely and privately is a complicated topic that to..."
+  },
+  {
+    "title": "Interoperability vs. Security: Why not both?",
+    "link": "https://www.eff.org/deeplinks/2026/10/interoperability-vs-security-why-not-both",
+    "source": "Deeplinks",
+    "published": "Wed, 21 Oct 2026 22:39:34 +0000",
+    "description": "An open internet where people can freely build, share, and remix each other's work is a powerful engine of grassroots innovation we’ve all benefited f..."
+  },
+  {
+    "title": "EFF to Brazil’s ANPD: Data Privacy and Free Expression Must Underpin Platform Regulations",
+    "link": "https://www.eff.org/deeplinks/2026/10/eff-brazils-anpd-data-privacy-and-free-expression-must-underpin-platform",
+    "source": "Deeplinks",
+    "published": "Wed, 21 Oct 2026 22:11:43 +0000",
+    "description": "The Brazilian National Data Protection Agency (ANPD) plays a pivotal role in the regulation of digital platforms according to new legislation approved..."
+  },
+  {
+    "title": "EFF’s State Legislative Agenda to End ALPR Mass Surveillance",
+    "link": "https://www.eff.org/deeplinks/2026/10/effs-state-legislative-agenda-end-alpr-mass-surveillance",
+    "source": "Deeplinks",
+    "published": "Wed, 21 Oct 2026 17:52:16 +0000",
+    "description": "Police agencies across the U.S. have deployed Automated License Plate Readers (ALPRs) to capture images of passing vehicles along with time, date, and..."
+  },
+  {
     "title": "EFF Launches Guide to Help Parents and Youth Protect Privacy Online",
     "link": "https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online",
     "source": "Deeplinks",
@@ -7,25 +35,11 @@
     "description": "Guide Includes Easy, Quick Ways To Identify and Protect Against Online Threats SAN FRANCISCO – The Electronic Frontier Foundation (EFF) has published ..."
   },
   {
-    "title": "We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches",
-    "link": "https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches",
-    "source": "Deeplinks",
-    "published": "Wed, 14 Oct 2026 23:21:37 +0000",
-    "description": "Today, EFF joined the ACLU of Wisconsin in filing a petition to the Wisconsin Supreme Court, asking it to rule that the state’s constitution requires ..."
-  },
-  {
     "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
     "link": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
     "source": "Deeplinks",
     "published": "Tue, 20 Oct 2026 21:46:42 +0000",
     "description": "In a victory for data privacy, a federal court in New York definitively ruled that the Office of Personnel Management (OPM) violated the law when it d..."
-  },
-  {
-    "title": "Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.",
-    "link": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
-    "source": "Deeplinks",
-    "published": "Thu, 15 Oct 2026 20:08:58 +0000",
-    "description": "No one should have to choose between speaking freely and protecting their immigration status. Yet that’s precisely the choice the Trump administration..."
   },
   {
     "title": "Require Police to Get a Warrant to Search ALPR Data",
@@ -40,19 +54,5 @@
     "source": "Deeplinks",
     "published": "Mon, 19 Oct 2026 17:59:22 +0000",
     "description": "Exciting news for Safari users: Privacy Badger is now available on Safari for macOS! You’ll need Safari version 26.5 or higher to use it.\nWhether you ..."
-  },
-  {
-    "title": "EFF Launches Privacy Badger for Safari on macOS",
-    "link": "https://www.eff.org/press/releases/eff-launches-privacy-badger-safari-macos",
-    "source": "Deeplinks",
-    "published": "Mon, 19 Oct 2026 16:00:25 +0000",
-    "description": "Free Tracker Blocker Used by Millions Will Protect Even More Users' PrivacySAN FRANCISCO—Privacy Badger, the award-winning tracker blocker made by the..."
-  },
-  {
-    "title": "In Memoriam: Barry Steinhardt",
-    "link": "https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt",
-    "source": "Deeplinks",
-    "published": "Fri, 16 Oct 2026 00:07:22 +0000",
-    "description": "Barry Steinhardt, a lifelong privacy champion and an early leader in the battle for digital civil liberties who served as EFF’s president in 1998-99, ..."
   }
 ]
