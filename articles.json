@@ -14,20 +14,6 @@
     "description": "An open internet where people can freely build, share, and remix each other's work is a powerful engine of grassroots innovation we’ve all benefited f..."
   },
   {
-    "title": "EFF to Brazil’s ANPD: Data Privacy and Free Expression Must Underpin Platform Regulations",
-    "link": "https://www.eff.org/deeplinks/2026/10/eff-brazils-anpd-data-privacy-and-free-expression-must-underpin-platform",
-    "source": "Deeplinks",
-    "published": "Wed, 21 Oct 2026 22:11:43 +0000",
-    "description": "The Brazilian National Data Protection Agency (ANPD) plays a pivotal role in the regulation of digital platforms according to new legislation approved..."
-  },
-  {
-    "title": "EFF’s State Legislative Agenda to End ALPR Mass Surveillance",
-    "link": "https://www.eff.org/deeplinks/2026/10/effs-state-legislative-agenda-end-alpr-mass-surveillance",
-    "source": "Deeplinks",
-    "published": "Wed, 21 Oct 2026 17:52:16 +0000",
-    "description": "Police agencies across the U.S. have deployed Automated License Plate Readers (ALPRs) to capture images of passing vehicles along with time, date, and..."
-  },
-  {
     "title": "Canadians Are Running Out Of Time To Oppose The Dangerous C-22 Surveillance Bill",
     "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
     "source": "Deeplinks",
@@ -40,6 +26,27 @@
     "source": "MIT Technology Review",
     "published": "Thu, 22 Oct 2026 18:48:04 +0000",
     "description": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This s..."
+  },
+  {
+    "title": "Lessons Learned From 'AdFection' and What To Do Next",
+    "link": "https://www.eff.org/deeplinks/2026/10/lessons-learned-adfection",
+    "source": "Deeplinks",
+    "published": "Mon, 26 Oct 2026 17:28:02 +0000",
+    "description": "Last week, researchers at Citizen Lab revealed a horrifying new malware campaign, dubbed “AdFection.” It used an ad network to distribute spyware to j..."
+  },
+  {
+    "title": "Anti-Circumvention Laws Raise the Cost of Knowledge",
+    "link": "https://www.eff.org/deeplinks/2026/10/anti-circumvention-laws-raise-cost-knowledge",
+    "source": "Deeplinks",
+    "published": "Mon, 26 Oct 2026 17:20:40 +0000",
+    "description": "The vast amount of information on the open web requires researchers and journalists to adapt with new tools to make sense of it all. Checking facts, g..."
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "source": "MIT Technology Review",
+    "published": "Mon, 26 Oct 2026 09:01:00 +0000",
+    "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform mak..."
   },
   {
     "title": "Computer Security Is About to Get a Lot Worse, Here’s What You Can Do",
